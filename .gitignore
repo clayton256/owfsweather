@@ -31,3 +31,5 @@
 # Debug files
 *.dSYM/
 *.su
+.gitignore
+.DS_Store
